@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap = "http://phonegap.com/ns/1.0"
-id = "com.phonegap.example7"
+id = "com.phonegap.example8"
 version = "1.0.0">
 
-<name> app7 Acciones del Dispositivo </name>
+<name> app8 Acciones del Dispositivo </name>
 
 <description>
-Aplicacion que realiza la acciones de muestror informacion, vibrar, beepear y deslizar 
+Aplicacion que realiza la acciones de muestrar informacion, vibrar, beepear y deslizar 
 </description>
 
 <author href="https://build.phonegap.com" email="linkdrack@gmail.com">
